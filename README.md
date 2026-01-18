@@ -24,7 +24,7 @@ Proyek ini dibangun dengan:
 | OpenXR | Mendukung program xr|
 
 ---
-![Preview VR]https://github.com/Sdq-Abstract/UAS_AR_VR/blob/main/Screenshot%202026-01-18%20104634.png)
+![Preview VR](https://github.com/Sdq-Abstract/UAS_AR_VR/blob/main/Screenshot%202026-01-18%20104634.png)
 ![Preview VR](https://github.com/Sdq-Abstract/UAS_AR_VR/blob/main/Screenshot%202026-01-18%20104700.png)
 ![Preview VR](https://github.com/Sdq-Abstract/UAS_AR_VR/blob/main/Screenshot%202026-01-18%20104806.png)
 
