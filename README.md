@@ -24,4 +24,6 @@ Proyek ini dibangun dengan:
 | OpenXR | Mendukung program xr|
 
 ---
+![Preview AR](link_gambar.png)
+![Preview VR](link_gambar2.png)
 
